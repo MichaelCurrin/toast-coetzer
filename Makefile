@@ -3,23 +3,20 @@ help:
 
 
 install:
-	bundle install --path vendor/bundle
+	bundle config --local path vendor/bundle
+	bundle install
 
 upgrade:
 	bundle update
 
 
-# Serve on subpath, as on Github Pages project site.
 s serve:
 	bundle exec jekyll serve --livereload
-
-# Serve on root, as on Github Pages user site or Netlify.
-r serve-root:
-	bundle exec jekyll serve --baseurl '' --livereload
 
 
 build:
 	bundle exec jekyll build
 
+# For Netlify.
 build-prod:
-	JEKYLL_ENV=production bundle exec jekyll build
+	JEKYLL_ENV=production jekyll build
