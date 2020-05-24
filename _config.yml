@@ -28,7 +28,7 @@ plugins:
   - jekyll-sitemap
 
 google_analytics: UA-87705880-10
-rss: rss
+rss: subscribe
 
 exclude:
   - LICENSE
