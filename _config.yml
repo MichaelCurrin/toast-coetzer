@@ -21,6 +21,8 @@ header_pages:
   - ons-klyntji.md
   - contact.md
 
+permalink: pretty
+
 plugins:
   - jekyll-feed
   - jekyll-sitemap
