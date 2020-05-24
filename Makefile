@@ -15,8 +15,7 @@ s serve:
 
 
 build:
-	bundle exec jekyll build
+	JEKYLL_ENV=production bundle exec jekyll build
 
-# For Netlify.
-build-prod:
+build-remote:
 	JEKYLL_ENV=production jekyll build
