@@ -85,7 +85,7 @@ toe the line
 
 ## 13 january
 
-winelands electric
+### winelands electric
 
 we are in the prime of our nothings
 and the tin roofs of our homes are blown to the poles
@@ -122,7 +122,7 @@ a filly in brine
 
 ## 13 januarie
 
-die strompelende soldaat
+### die strompelende soldaat
 
 skuins uit die halfuur
 strompel ’n soldaat
@@ -233,7 +233,7 @@ wat uitbrand in jou hand
 
 ## 21 january
 
-day in the highlands
+### day in the highlands
 
 tracking up the hillsides
 where the homes huddle under
@@ -298,7 +298,7 @@ an aeroplane flies over the slow warm night and the bay and the lights a broken 
 
 ## 26 januarie
 
-fossiel
+### fossiel
 
 onder die bestek van my gesig
 is my skedel ’n fossiel
@@ -333,7 +333,7 @@ van die mensdom
 
 ## 27 january
 
-the elephant’s eye
+### the elephant’s eye
 
 on the sunburnt mountains of the cape of jerusalem
 where children in booties and dogs looking for cookies
@@ -358,7 +358,7 @@ and smile
 
 ## 28 january
 
-hooray
+### hooray
 
 when I fall asleep at night
 and the sediments of sleep
@@ -397,7 +397,7 @@ hooray
 
 ## 1 February
 
-walk fast, whistle
+### walk fast, whistle
 
 walk fast, whistle
 cock your ears and listen
@@ -623,7 +623,7 @@ in die rietbos en brand
 
 ## 7 february
 
-suitcase heart
+### suitcase heart
 
 i carry my heart in a suitcase
 i hold my fist in its place
@@ -688,7 +688,7 @@ and i’ll leave the rest to fate
 
 ## 12 february
 
-end of day
+### end of day
 
 by the end of the day
 the city falls back into
@@ -749,7 +749,7 @@ die speld in die water
 die blom in die berg
 
 
-deathland I
+### deathland I
 
 in deathland i draw the curtains
 of the bullet-blown windows
@@ -794,7 +794,7 @@ of deathland
 
 ## 18 february
 
-deathland II
+### deathland II
 
 i draw the blanket of bones to my chin
 some my own, some of kin
@@ -854,7 +854,7 @@ in deathland
 
 ## 19 february
 
-deathland III
+### deathland III
 
 i dream the dreams of the blind
 who might have seen as a child
@@ -892,7 +892,7 @@ above deathland
 
 ## 20 february
 
-deathland IV
+### deathland IV
 
 the boatmen of the world
 have been left without
@@ -936,7 +936,7 @@ in deathland
 
 ## 22 februarie
 
-die munte
+### die munte
 
 die munte glip af
 in die koel ysterkele van
@@ -1018,7 +1018,7 @@ rooies
 
 ## 24 february
 
-baboons 1 – bachelor 0
+### baboons 1 – bachelor 0
 
 a clear set of fingerprints
 on the counter
@@ -1108,7 +1108,7 @@ when the call came from jen:
 you’ve had visitors”
 
 
-the party
+### the party
 
 at the party we are going
 to be drinking too much
@@ -1139,7 +1139,7 @@ a bloodied arrow in a heart
 hallelujah, hallelujah
 
 
-republiek
+### republiek
 
 in hierie republiek van ons
 klou ons snags aan mekaar vas
@@ -1229,7 +1229,7 @@ a fleet and foul sail, full to the wind, rattle and ho.
 
 ## 9 april
 
-we walk with heaviness through the world
+### we walk with heaviness through the world
 
 we walk with heaviness through the world
 because there are too many people
@@ -1272,7 +1272,7 @@ and the song of the bokmakierie
 
 ## 13 april
 
-lizards
+### lizards
 
 through the city we walk like ghosts
 in the absences of one another
@@ -1300,7 +1300,7 @@ by all the silence
 all the stone
 
 
-die groot verstaan
+### die groot verstaan
 
 net soos die hare op my arm regopstaan
 die son en die maan, die groot verstaan
@@ -1322,7 +1322,7 @@ hier is die hart vandaan
 hier is die groot verstaan
 
 
-restlessness blues
+### restlessness blues
 
 all this holding out
 all this sitting around
@@ -1381,7 +1381,7 @@ on the table top of the world
 
 ## 14 april
 
-jan
+### jan
 
 ek ontmoet jan in die nag
 langs die pad by die
@@ -1525,7 +1525,7 @@ in fish hoek main road
 
 ## 20 april
 
-brief
+### brief
 
 soms is die see net reg
 vir wit seilbootjies met wit seile
