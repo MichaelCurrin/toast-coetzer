@@ -14,6 +14,13 @@ url: "https://toastcoetzer.com"
 
 theme: minima
 
+header_pages:
+  - writing.md
+  - drawing.md
+  - photography.md
+  - ons-klyntji.md
+  - contact.md
+
 plugins:
   - jekyll-feed
   - jekyll-sitemap
