@@ -40,3 +40,8 @@ These are my brother's cows.
 {% include image.html name='soju bar.jpg' %}
 
 On the night we gave them their copy of 'Key to Cape Town'
+
+
+## Progress
+
+{% include image.html name='progress.jpg' %}
