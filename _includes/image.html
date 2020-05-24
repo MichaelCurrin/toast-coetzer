@@ -1,0 +1,5 @@
+{% assign img_src = include.name | prepend: '/assets/img/' | relative_url %}
+
+<a href="{{ img_src }}">
+    <img src="{{ img_src }}" alt="{{ include.name | remove: '.jpg' | remove: '.png' }}" class="center">
+</a>
