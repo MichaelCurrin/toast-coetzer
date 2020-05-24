@@ -3,6 +3,8 @@ layout: page
 title: Writing
 ---
 
+{% include image.html name='stitch.jpg' %}
+
 Here are some bits and pieces written between 2 January and 20 April 2013. I will update this section from time to time. The idea is that you can print out the whole batch and go read it somewhere nice. Engels/ Afrikaans.
 
 Some are titled, others not. Some have/will become songs for The Buckfever Underground, others for Simply Dead. Just nod and pretend if you're not with me here.
