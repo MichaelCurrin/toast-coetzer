@@ -2,7 +2,7 @@ help:
 	@egrep '^\S|^$$' Makefile
 
 
-install:
+i install:
 	bundle config --local path vendor/bundle
 	bundle install
 
