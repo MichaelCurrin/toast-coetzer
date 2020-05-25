@@ -11,10 +11,13 @@ upgrade:
 
 
 s serve:
-	bundle exec jekyll serve --livereload
+	bundle exec jekyll serve --livereload --trace
 
 
-build:
+build-dev:
+	JEKYLL_ENV=production bundle exec jekyll build
+
+build-prod:
 	JEKYLL_ENV=production bundle exec jekyll build
 
 build-remote:
