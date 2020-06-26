@@ -12,4 +12,6 @@ This site uses Jekyll 4 so uses Netlify and will not build on Github Pages.
 
 ## License
 
-Released with the [No license](https://choosealicense.com/no-permission/) option for **restricted copyright** on content and code.
+Released with the [No license](https://choosealicense.com/no-permission/) option for **restricted copyright** on content and code. Artwork and content belong to Toast Coetzer.
+
+This site used a standard Jekyll theme and structure - you can use it as inspiration for your own projects.
