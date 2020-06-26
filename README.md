@@ -2,7 +2,7 @@
 > Jekyll-based static website for Toast Coetzer
 
 [![Made with Jekyll](https://img.shields.io/badge/jekyll-4.0.1-blue.svg)](https://jekyllrb.com)
-[![GitHub tag](https://img.shields.io/github/tag/MichaelCurrin/toaster-coetzer)](https://GitHub.com/MichaelCurrin/toast-coetzer/tags/)
+[![GitHub tag](https://img.shields.io/github/tag/MichaelCurrin/toaste-coetzer)](https://GitHub.com/MichaelCurrin/toast-coetzer/tags/)
 
 
 [![Site link](https://img.shields.io/badge/site-toastcoeter.com-green?style=for-the-badge)](toastcoetzer.com/)
