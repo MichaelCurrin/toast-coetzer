@@ -9,7 +9,7 @@
 
 Jekyll website for musician, journalist, TV presenter and writer named Toast.
 
-This site uses Jekyll 4 so uses Netlify and will not build on Github Pages.
+This site uses Jekyll 4 so will not build on Github Pages with the standard flow.
 
 
 ## License
