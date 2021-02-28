@@ -4,8 +4,10 @@
 [![Made with Jekyll](https://img.shields.io/badge/jekyll-4.0.1-blue.svg)](https://jekyllrb.com)
 [![GitHub tag](https://img.shields.io/github/tag/MichaelCurrin/toast-coetzer)](https://GitHub.com/MichaelCurrin/toast-coetzer/tags/)
 
-
-[![Site link](https://img.shields.io/badge/site-toastcoeter.com-green?style=for-the-badge)](toastcoetzer.com/)
+<div align="center">
+  
+[![Site link](https://img.shields.io/badge/site-toastcoeter.com-2ea44f?style=for-the-badge)](toastcoetzer.com/)
+</div>
 
 Jekyll website for musician, journalist, TV presenter and writer named Toast.
 
