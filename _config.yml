@@ -1,4 +1,4 @@
-### Site metadata ###
+### Site metadata
 
 title: Toast Coetzer
 
@@ -8,7 +8,7 @@ description: |
 twitter_username: The_Buckfever
 instagram_username: toastcards
 
-### Build settings ###
+### Build settings
 
 url: https://toastcoetzer.com
 
@@ -29,6 +29,12 @@ plugins:
 
 google_analytics: UA-87705880-10
 rss: subscribe
+
+defaults:
+  - scope:
+      path: "*.md"
+    values:
+      layout: page
 
 exclude:
   - LICENSE
