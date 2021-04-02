@@ -2,7 +2,7 @@
 
 title: Toast Coetzer
 
-description: >-
+description: |
   Homepage for Toast Coetzer, a South African writer and frontman for the Buckfever Underground.
 
 twitter_username: The_Buckfever
@@ -10,7 +10,7 @@ instagram_username: toastcards
 
 ### Build settings ###
 
-url: "https://toastcoetzer.com"
+url: https://toastcoetzer.com
 
 theme: minima
 
