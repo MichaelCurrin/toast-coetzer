@@ -1,7 +1,7 @@
 source "https://rubygems.org"
 
 gem "jekyll", "~> 4.2", ">= 4.2.0"
-gem "webrick", "~> 1.7"
+gem "webrick", "~> 1.8", ">= 1.8.2"
 
 gem "minima", "~> 2.5", ">= 2.5.1"
 
